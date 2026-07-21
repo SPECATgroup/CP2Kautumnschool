@@ -41,7 +41,7 @@ permalink: /schedule/
 | Time            | Topic / Lecturer    |
 | --------------- | ------------------- |
 | 09:00 am - 10:00 am | Lecture / Anna Hehn    |
-| 10:00 am - 11:00 am | Lecture / Ole Sch\"utt |
+| 10:00 am - 11:00 am | Lecture / Ole Schütt |
 | 11:00 pm - 12:30 am | Lecture / Hands-on session / Luis Vasquez, Maxim Gelin |
 | Lunch | |
 | 14:30 pm - 16:00 pm | Lecture / Hands-on session / Mohammad Shakiba, Alexey Akimov |

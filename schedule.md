@@ -43,7 +43,7 @@ permalink: /schedule/
 | 09:00 am - 10:30 am | Hands-on session / Ritama Kar, Rafael S. Mattos |
 | 10:30 am - 12:00 am | Lecture / Hands-on session / Luis Vasquez, Maxim Gelin |
 | Lunch | |
-| 14:00 pm - 15:00 pm | Lecture / Ole Sch√tt |
+| 14:00 pm - 15:00 pm | Lecture / Ole Sch√ºtt |
 | 15:00 pm - 16:00 pm | Lecture / Anna Hehn  |
 | 16:00 pm            | Closing |
 

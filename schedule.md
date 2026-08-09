@@ -28,10 +28,10 @@ permalink: /schedule/
 | 10:00 am - 10:30 am | Lightning Talks / Participants |
 | 10:30 am - 12:00 am | Hands-on session / Ritama Kar, Rafael S. Mattos |
 | Lunch | |
-| 14:00 pm - 15:00 pm | Poster session |
-| 15:00 pm - 16:00 pm | Lecture / Stepan Marek |
+| 14:00 pm - 15:30 pm | Poster session |
+| 15:30 pm - 16:30 pm | Lecture / Stepan Marek |
 | Break | | 
-| 16:30 pm - 18:00 pm | Hands-on session / Ritama Kar, Rafael S. Mattos |
+| 17:00 pm - 18:30 pm | Lecture / Hands-on session / Mohammad Shakiba, Alexey Akimov |
 | 19:00 pm            | Social Dinner |
 
 
@@ -40,11 +40,10 @@ permalink: /schedule/
 
 | Time            | Topic / Lecturer    |
 | --------------- | ------------------- |
-| 09:00 am - 10:00 am | Lecture / Anna Hehn    |
-| 10:00 am - 11:00 am | Lecture / Ole Sch√ºtt |
-| 11:00 am - 12:30 am | Lecture / Hands-on session / Luis Vasquez, Maxim Gelin |
+| 09:00 am - 10:30 am | Hands-on session / Ritama Kar, Rafael S. Mattos |
+| 10:30 am - 12:00 am | Lecture / Hands-on session / Luis Vasquez, Maxim Gelin |
 | Lunch | |
-| 14:30 pm - 16:00 pm | Lecture / Hands-on session / Mohammad Shakiba, Alexey Akimov |
+| 14:00 pm - 15:00 pm | Lecture / Ole Sch√tt |
+| 15:00 pm - 16:00 pm | Lecture / Anna Hehn  |
 | 16:00 pm            | Closing |
-
 

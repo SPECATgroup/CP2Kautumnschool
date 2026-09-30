@@ -61,7 +61,7 @@ The current schedule may be changed. Please check for updates.
 | [Dr. Luis Vasquez](https://scholar.google.com/citations?user=KG6dxGcAAAAJ&hl=en) | Hangzhou Dianzi University, China (Group M. Gelin) |
 | [Dr. Ole Schütt](https://ole.schuett.name) | CP2KLab, Zurich, Switzerland |
 | [Dr. Mohammad Shakiba](https://sites.ucmerced.edu/cisborn/people-new) | University of California Merced, U.S. |
-| [MSc. Tejas Thorat](https://de.linkedin.com/in/tejas-thorat-19b457215) | Christian-Albrechts-University Kiel, Germany |
+| [MSc. Tejas Thorat](https://de.linkedin.com/in/tejas-thorat-19b457215) | Christian-Albrechts-University Kiel, Germany|
 | [Prof. Anna Hehn](https://www.hehn.phc.uni-kiel.de/en) | Christian-Albrechts-University Kiel, Germany |
 
 

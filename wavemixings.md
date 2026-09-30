@@ -9,9 +9,13 @@ permalink: /documentation/
 **Documentation of the program packages**
 
 **CP2K** 
+Documentation of the CP2K program package can be found [online](https://manual.cp2k.org/trunk/).
 
 **Newton-X** 
+Documentation of the Newton-X program package can be found [online](https://light-and-molecules.gitlab.io/newton-x-package/).
 
 **Libra** 
+Documentation of the Libra program package can be found [online](https://github.com/compchem-cybertraining/Tutorials_Libra).
 
 **WaveMixings** 
+Documentation of the WaveMixings program package can be found [online](file:///Users/anna-sophia/git/JUNIORPROFESSUR/WEBSITE_SPECAT_group/website_CP2K_NewtonX_autumn_school/_doc_wavemixings/index.html). 

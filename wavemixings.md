@@ -18,4 +18,4 @@ Documentation of the Newton-X program package can be found [online](https://ligh
 Documentation of the Libra program package can be found [online](https://github.com/compchem-cybertraining/Tutorials_Libra).
 
 **WaveMixings** 
-Documentation of the WaveMixings program package can be found [online](file:///Users/anna-sophia/git/JUNIORPROFESSUR/WEBSITE_SPECAT_group/website_CP2K_NewtonX_autumn_school/_doc_wavemixings/index.html). 
+Documentation of the WaveMixings program package can be found <a href="_doc_wavemixings/index.html">online</a>. 

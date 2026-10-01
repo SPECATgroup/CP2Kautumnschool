@@ -33,11 +33,8 @@ dynamics, summarized by the following keywords:
 **The international autumn school will take place in Kiel, Germany, from October 14 to 16, 2026. We will also provide
 the option to participate in the autumn school remotely.**
 
-**Registration is <a href="https://docs.google.com/forms/d/1nFZT4d2HzpynXbHAE5N_bu-hD8Jp9S20ROLkLkGQ_YY/">open</a>** on a first-come, first-served basis. 
+**Registration is now closed.** 
 This course is free of cost for members of German universities or publicly-funded research institutions. Please register the course using your university/institutional e-mail address.
-**Registration for remote participation for the hands-on sessions is now closed as the maximum number of participants has been reached.
-Registration for remote participation for the lectures is still possible on request. In-person participation is still
-possible and kindly appreciated.** 
 
 The event is funded by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU fund for Internationalisation</a>, providing limited **financial support to cover travel costs of participants**. To apply for financial support, please submit a brief letter of motivation and a resume. Please comment on your current research interests and the expected benefit to be gained by participating in this autumn school.  
 

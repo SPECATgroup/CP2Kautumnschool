@@ -103,7 +103,7 @@ If you need further information about travel and accommodation, feel free to con
 ## Repository / Videos
 
 All lecture material and video recordings will be provided via the <a href="https://www.youtube.com/kieluni">youtube channel of the Christian-Albrechts-University Kiel</a>.
-Lecture material for the hands-on sessions will be provided via the <a href="https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school">autumn school's Gitlab account</a> as well as via the corresponding <a href=" ">Github repository</a>.
+Lecture material for the hands-on sessions will be provided via the <a href="https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school">autumn school's Gitlab account</a> as well as via the corresponding <a href="https://github.com/SPECATgroup/CP2KNewtonXLibraWaveMixingsAutumnschool_2026">Github repository</a>.
 
 ## Additional information
 
@@ -112,7 +112,12 @@ The number of seats and poster presentation slots are limited and the allocation
 
 ## Acknowledgements
 
-We gratefully acknowledge support by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU funds for internationalisation</a>. 
+We gratefully acknowledge support by the <a href="https://www.rz.uni-kiel.de/en/university-computing-centre-rechenzentrum">University Computing Center</a>.</br>
+We gratefully acknowledge support by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU funds for internationalisation</a>. </br>
+We gratefully acknowledge support by <a
+href="https://www.uni-kiel.de/en/research/priority-research-areas/kiel-nano-surface-and-interface-science">Kiel Nano,
+Surface, and Interface Science</a>.</br>
+We gratefully acknowledge support by the <a href="https://www.uni-kiel.de/gf-praesidium/de/ehrungen-und-foerderungen/stiftungen-und-stipendien/stiftungen-an-der-cau-1/dr-ralph-norwid-schindler-stiftung">Schindlerstiftung</a>.
 
 ![Alt text]({{ "/images/cau_logo_smaller.png" | relative_url }}) ![Alt text]({{ "/images/Kinsis_logo_smaller.png" | relative_url }})
 <!-- <img src="/images/cau_logo.png" width="45%"> ![Alt text]({{ "/images/kinsis_logo.png" | relative_url }}) -->

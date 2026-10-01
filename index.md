@@ -119,8 +119,10 @@ We gratefully acknowledge support by the <a href="https://www.international.uni-
 
 ## Contact
 
+Regarding financial support, please contact stojsic@phc.uni-kiel.de.</br>
+Regarding the HPC infrastructure, please contact hpcsupport@rz.uni-kiel.de.</br>
 {% comment %}
-CONTACT EMAIL ADDRESS
+CONTACT EMAIL ADDRESSES
 Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">

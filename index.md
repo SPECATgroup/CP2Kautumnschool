@@ -60,22 +60,15 @@ The current schedule may be changed. Please check for updates.
 | [Dr. Mohammad Shakiba](https://sites.ucmerced.edu/cisborn/people-new) | University of California Merced, U.S. |
 | [MSc. Tejas Thorat](https://de.linkedin.com/in/tejas-thorat-19b457215) | Christian-Albrechts-University Kiel, Germany|
 | [Prof. Anna Hehn](https://www.hehn.phc.uni-kiel.de/en) | Christian-Albrechts-University Kiel, Germany |
-| [Dr. Karsten Balzer](https://www.rz.uni-kiel.de/de/ueber-uns/a-z/kbalzer) | Christian-Albrechts-University Kiel,
-Germany |
+| [Dr. Karsten Balzer](https://www.rz.uni-kiel.de/de/ueber-uns/a-z/kbalzer) | Christian-Albrechts-University Kiel, Germany |
 | [Dr. Simone Knief](https://www.rz.uni-kiel.de/de/ueber-uns/a-z/sknief) | Christian-Albrechts-University Kiel, Germany|
-| [Dr. Johannes Labrenz](https://www.rz.uni-kiel.de/de/ueber-uns/a-z/jlabrenz) | Christian-Albrechts-University Kiel,
-Germany |
-| [Dr. Holger Naundorf](https://www.rz.uni-kiel.de/de/ueber-uns/a-z/hnaundorf) | Christian-Albrechts-University Kiel,
-Germany |
+| [Dr. Johannes Labrenz](https://www.rz.uni-kiel.de/de/ueber-uns/a-z/jlabrenz) | Christian-Albrechts-University Kiel, Germany |
+| [Dr. Holger Naundorf](https://www.rz.uni-kiel.de/de/ueber-uns/a-z/hnaundorf) | Christian-Albrechts-University Kiel, Germany |
 | [Tanja Stojsic](https://univis.uni-kiel.de/formbot/dsc_3Danew_2Fpande_26dir_3Dmathe_2Finstit_4_2Ftheore_1_26ref_3Dpande) | Christian-Albrechts-University Kiel, Germany | 
-| [Carsten Grun](https://www.phc.uni-kiel.de/de/labore-und-werkstaetten/labore-und-werkstaetten) |
-Christian-Albrechts-University Kiel, Germany |
-| [Haxhi Dragusha](https://www.temps.phc.uni-kiel.de/en/team/present-group-members/haxhi-dragusha) |
-Christian-Albrechts-University Kiel, Germany |
-| [Mark Pohl](https://www.temps.phc.uni-kiel.de/en/team/present-group-members/mark-pohl) |
-Christian-Albrechts-University Kiel, Germany |
-| [Christina Anders](https://www.uni-kiel.de/de/person/anders-christina-72675) | Christian-Albrechts-University Kiel,
-Germany |
+| [Carsten Grun](https://www.phc.uni-kiel.de/de/labore-und-werkstaetten/labore-und-werkstaetten) | Christian-Albrechts-University Kiel, Germany |
+| [Haxhi Dragusha](https://www.temps.phc.uni-kiel.de/en/team/present-group-members/haxhi-dragusha) | Christian-Albrechts-University Kiel, Germany |
+| [Mark Pohl](https://www.temps.phc.uni-kiel.de/en/team/present-group-members/mark-pohl) | Christian-Albrechts-University Kiel, Germany |
+| [Christina Anders](https://www.uni-kiel.de/de/person/anders-christina-72675) | Christian-Albrechts-University Kiel, Germany |
 
 
 ## Ressources

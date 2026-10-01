@@ -125,7 +125,7 @@ We gratefully acknowledge support by the <a href="https://www.uni-kiel.de/gf-pra
 ## Contact
 
 Regarding financial support, please contact stojsic@phc.uni-kiel.de.<br>
-Regarding the HPC infrastructure, please contact hpcsupport@rz.uni-kiel.de.<br>
+Regarding HPC infrastructure, please contact hpcsupport@rz.uni-kiel.de.<br>
 {% comment %}
 CONTACT EMAIL ADDRESSES
 Display the contact email address set in the configuration file.

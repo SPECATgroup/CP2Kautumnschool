@@ -6,6 +6,12 @@ permalink: /documentation/
 <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
 ![Alt text]({{ "/images/new_logo.png" | relative_url }})
 
+**Course material including lectures and tutorials**
+
+Course material will be made available on the CAU Gitlab account <a
+href="https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school">git@cau-git.rz.uni-kiel.de:hpc/cp2k-newtonx_autumn_school.git</a>.
+
+
 **Documentation of the program packages**
 
 **CP2K** 

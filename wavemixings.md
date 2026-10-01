@@ -8,7 +8,7 @@ permalink: /documentation/
 
 **Course material including lectures and tutorials**
 
-Course material will be made available on the CAU Gitlab account <a
+Course material will be made available on the **CAU Gitlab account** <a
 href="https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school">git@cau-git.rz.uni-kiel.de:hpc/cp2k-newtonx_autumn_school.git</a>.
 
 

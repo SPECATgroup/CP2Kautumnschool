@@ -112,11 +112,11 @@ The number of seats and poster presentation slots are limited and the allocation
 
 ## Acknowledgements
 
-We gratefully acknowledge support by the <a href="https://www.rz.uni-kiel.de/en/university-computing-centre-rechenzentrum">University Computing Center</a>.</br>
-We gratefully acknowledge support by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU funds for internationalisation</a>. </br>
+We gratefully acknowledge support by the <a href="https://www.rz.uni-kiel.de/en/university-computing-centre-rechenzentrum">University Computing Center</a>.<br>
+We gratefully acknowledge support by the <a href="https://www.international.uni-kiel.de/en/internationalisation-fund">CAU funds for internationalisation</a>. <br>
 We gratefully acknowledge support by <a
 href="https://www.uni-kiel.de/en/research/priority-research-areas/kiel-nano-surface-and-interface-science">Kiel Nano,
-Surface, and Interface Science</a>.</br>
+Surface, and Interface Science</a>.<br>
 We gratefully acknowledge support by the <a href="https://www.uni-kiel.de/gf-praesidium/de/ehrungen-und-foerderungen/stiftungen-und-stipendien/stiftungen-an-der-cau-1/dr-ralph-norwid-schindler-stiftung">Schindlerstiftung</a>.
 
 ![Alt text]({{ "/images/cau_logo_smaller.png" | relative_url }}) ![Alt text]({{ "/images/Kinsis_logo_smaller.png" | relative_url }})

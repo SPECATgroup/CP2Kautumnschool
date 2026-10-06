@@ -14,7 +14,7 @@ href="https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school">git@cau-git
 **Book of abstracts**
 
 The book of abstracts for lightning talks and poster contributions can be found
-[here](https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school/book_of_abstracts).
+[here](https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school/Book_of_abstracts).
 
 **Documentation of the program packages**
 

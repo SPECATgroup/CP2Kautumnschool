@@ -11,6 +11,10 @@ permalink: /documentation/
 Course material will be made available on the **CAU Gitlab account** <a
 href="https://cau-git.rz.uni-kiel.de/hpc/cp2k-newtonx_autumn_school">git@cau-git.rz.uni-kiel.de:hpc/cp2k-newtonx_autumn_school.git</a>.
 
+**Book of abstracts**
+
+The book of abstracts for lightning talks and poster contributions can be found here.
+<iframe src="images/Book_of_Abstracts.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 **Documentation of the program packages**
 

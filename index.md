@@ -7,7 +7,7 @@ layout: page
 ![Alt text]({{ "/images/new_logo.png" | relative_url }})
 
 
-## **International Autumn School CP2K-Newton-X-Libra-WaveMixings for mixed classical-quantum dynamics**
+## **International Autumn School CP2K-Newton-X-Libra-WaveMixings for mixed quantum-classical dynamics**
 
 ## About the Autumn School
 

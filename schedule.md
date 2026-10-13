@@ -25,8 +25,8 @@ permalink: /schedule/
 | Time            | Topic / Lecturer    |
 | --------------- | ------------------- |
 | 09:00 am - 10:00 am | Lecture / Mario Barbatti |
-| 10:00 am - 10:30 am | Lightning Talks / Participants |
-| 10:30 am - 12:00 am | Hands-on session / Ritama Kar, Rafael S. Mattos |
+| 10:00 am - 10:45 am | Lightning Talks / Participants |
+| 10:45 am - 12:15 am | Hands-on session / Ritama Kar, Rafael S. Mattos |
 | Lunch | |
 | 14:00 pm - 15:30 pm | Poster session |
 | 15:30 pm - 16:30 pm | Lecture / Stepan Marek |
